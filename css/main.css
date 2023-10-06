@@ -13,7 +13,7 @@ html {
 
 /* 2- Style the boxes */
 
-/* 3- Centering the boxes*/
+/* 3- Centering the boxes */
 
 .cards {
   margin: 0;
@@ -45,8 +45,9 @@ html {
   margin-bottom: 1rem;
   font-size: 1.125rem;
 }
- /* 5- Style the data list */
- 
+
+/* 5- Style the data list */
+
 .cards dl {
   margin-bottom: 1rem;
 }
